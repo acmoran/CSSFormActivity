@@ -1,0 +1,52 @@
+
+body 
+{
+    background-color: lightslategrey;
+    font-family: 'Oswald';
+    align-content: center;
+    text-align: center;
+}
+
+form
+{
+    border-radius: 5px;
+    width: 14%;
+    border: solid px #000000;
+    text-align: left;
+    margin: 60px 50px;
+    padding: 8px 30px 30px 30px;
+    background: white;
+    display: inline-block;
+    align-content: center;
+}
+
+input[type=button]
+{
+    border: thin;
+    background-color: #45a049;
+    color: white;
+}
+
+input[type=reset]
+{
+    border: thin;
+    background-color: rgb(133, 8, 8);
+    color: white;
+}
+.alert1
+{
+    font-style: italic;
+    color: green;
+}
+
+.alert2
+{
+    font-style: italic;
+    color: red;
+}
+
+.alert3
+{
+    font-style: italic;
+    color: red;
+}
